@@ -1,5 +1,13 @@
 # Acordeón Conceptos
 
+## Semana 1 Reto Master
+
+## Integrantes del equipo:
+- ### **Encinas Mardueño Catherine Michelle**
+- ### **Encinas Mardueño Christopher Brad**
+- ### **Montiel Martínez David**
+
+
 - ## **IaaS:** Es un modelo de servicio en la nube donde un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es resposabilidad del inquilo de nube.
 - ## **PaaS:** Es un modelo de servicio en la nube de entorno de hospedaje administrado. El proveedor de servicios en la nube suministra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
 - ## **SaaS:** Es un modelo de servicio en la nube donde el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, ya sean máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo se encarga de proporcionar sus datos a la aplicacion administrada por el proveedor de servicios en la nube.
