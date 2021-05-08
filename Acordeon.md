@@ -1,13 +1,5 @@
 # Acordeón Conceptos
 
-## Semana 1 Reto Master
-
-## Integrantes del equipo:
-- ### **Encinas Mardueño Catherine Michelle**
-- ### **Encinas Mardueño Christopher Brad**
-- ### **Montiel Martínez David**
-
-
 - ## **IaaS:** Es un modelo de servicio en la nube donde un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es resposabilidad del inquilo de nube.
 - ## **PaaS:** Es un modelo de servicio en la nube de entorno de hospedaje administrado. El proveedor de servicios en la nube suministra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
 - ## **SaaS:** Es un modelo de servicio en la nube donde el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, ya sean máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo se encarga de proporcionar sus datos a la aplicacion administrada por el proveedor de servicios en la nube.
@@ -16,3 +8,8 @@
 - ## **Nube híbrida:** Es un entorno informático que mezcla la nube pública y la privada, lo cual nos permite compartir aplicaciones y datos entre ellas.
 - ## **Máquina Virtual:** Es un sistema informático virtual que tiene su propio CPU, memoria, almacenamiento etc, pero se crea en una computadora físca.
 - ## **Macrodatos:** Son una cantidad de datos muy grande que con un software convencional es muy difícil que sean capturados, administrados y procesados en un tiempo razonable.
+- ## **DevOps:** Encargada de optimizar y automatizar el desarrollo de software (ejemplo, GitHub).
+- ## **Compute:** Son los servicios que proporcionan capacidad de procesamiento y computo (máquinas virtuales).
+- ## **CapEx (Capital Expenditure):** Es el gasto de capital, por ejemplo, la compra de equipo como computadoras, servidores, cableado e infraestructura.
+- ## **OpEx (Operation Expenditure):** Es el gasto para el funcionamiento, dependiendo lo que utilices.
+- ## **Grupo de Recursos:** Contiene uno o varios recursos.
