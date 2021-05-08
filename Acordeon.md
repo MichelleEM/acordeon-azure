@@ -1,0 +1,10 @@
+# Acordeón Conceptos
+
+- ## **IaaS:** Es un modelo de servicio en la nube donde un proveedor de servicios en la nube mantiene actualizado el hardware, pero el mantenimiento del sistema operativo y la configuración de red es resposabilidad del inquilo de nube.
+- ## **PaaS:** Es un modelo de servicio en la nube de entorno de hospedaje administrado. El proveedor de servicios en la nube suministra las máquinas virtuales y los recursos de red, y el inquilino de nube implementa sus aplicaciones en el entorno de hospedaje administrado. 
+- ## **SaaS:** Es un modelo de servicio en la nube donde el proveedor de servicios en la nube administra todos los aspectos del entorno de la aplicación, ya sean máquinas virtuales, los recursos de red, el almacenamiento de datos y las aplicaciones. El inquilino de nube solo se encarga de proporcionar sus datos a la aplicacion administrada por el proveedor de servicios en la nube.
+-  ## **Nube pública:** Los servicios se ofrecen a tráves de la red de internet pública y se encuentran disponibles para cualquiera que guste comprarlos. Los recursos de nube como los servidores y el almacenamiento son propiedad del proveedor de servicios en la nube de terceros, que los explota y distribuye a través de internet.
+- ## **Nube privada:** Los recursos informáticos son de uso exclusivo de los usuarios de una empresa u organización. La nube privada puede estar ubicada en un centro de datos local pertenecientes a la organizacion o se pueden hospedar en un proveedor de servicios de terceros.
+- ## **Nube híbrida:** Es un entorno informático que mezcla la nube pública y la privada, lo cual nos permite compartir aplicaciones y datos entre ellas.
+- ## **Máquina Virtual:** Es un sistema informático virtual que tiene su propio CPU, memoria, almacenamiento etc, pero se crea en una computadora físca.
+- ## **Macrodatos:** Son una cantidad de datos muy grande que con un software convencional es muy difícil que sean capturados, administrados y procesados en un tiempo razonable.
